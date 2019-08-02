@@ -1,13 +1,12 @@
 let resumeData = {
-  name: "Jane Doe",
-  role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
-  skypeid: "Your skypeid",
-  roleDescription: "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
+  name: "Hershey Lande",
+  role: "GIS and Informatics Student",
+  linkedinId:"hersheylande",
+  roleDescription: "Full-Time student seeking for opportunities of growth and learning in the Tech Industry while also giving back to the community. ",
   socialLinks:[
       {
         name:"linkedin",
-        url:"https://www.linkedin.com/in/evanfeenstra",
+        url:"https://www.linkedin.com/in/harshita-l-278013111/",
         className:"fa fa-linkedin"
       },
       {
@@ -15,20 +14,15 @@ let resumeData = {
         url:"http://github.com/",
         className:"fa fa-github"
       },
-      {
-        name:"skype",
-        url:"http://skype.com",
-        className:"fa fa-skype"
-      }
     ],
-  aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a Web Development position.",
+  aboutme:"I am currently pursuing a BS in Geographical Information Systems and Human Computer Interaction while simutaneously searching for design opportunities.",
   address:"Seattle, Washington",
   education:[
     {
       UniversityName:"University of Washington",
-      specialization:"Some specialization",
+      specialization:"Geographical Information System",
       MonthOfPassing:"June",
-      YearOfPassing:"2019",
+      YearOfPassing:"2021",
       Achievements:"Some Achievements"
     },
     {
@@ -41,9 +35,9 @@ let resumeData = {
   ],
   work:[
     {
-      CompanyName:"Some Company",
-      specialization:"Some specialization",
-      MonthOfLeaving:"Jan",
+      CompanyName:"Edifecs",
+      specialization:"Data Science Intern",
+      MonthOfLeaving:"August",
       YearOfLeaving:"2018",
       Achievements:"Some Achievements"
     },
